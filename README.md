@@ -200,10 +200,8 @@ Repository to keep a track of VST Plugins that are available on Linux
 | **blepfx** | [fx.amee.ee](https://fx.amee.ee/) |
 | **ChowdhuryDSP** | [chowdsp.com](https://chowdsp.com/) |
 | **Ewan Bristow (CRQL)** | [crql.works](https://crql.works/) |
-| **GVST** | [gvst.co.uk](https://www.gvst.co.uk/) |
 | **Mannix Audio Technology** | - |
 | **TAL Software** | [tal-software.com](https://tal-software.com/) |
 | **Tilr** | [github.com/tiagolr](https://github.com/tiagolr) |
 | **u-he** | [u-he.com](https://u-he.com/) |
-| **Venn Audio** | [vennaudio.com](https://www.vennaudio.com/) |
 | **ZL Audio** | [zl-audio.github.io](https://zl-audio.github.io/) |
