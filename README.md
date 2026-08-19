@@ -1,4 +1,4 @@
-# Linux VST Plugins
+# Linux Plugins
 Repository to keep a track of VST Plugins that are available on Linux
 
 ## 🎛️ Audio Effects (VSTs)
