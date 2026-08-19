@@ -15,81 +15,63 @@ Repository to keep a track of VST Plugins that are available on Linux
 | | | Wildergarden Audio | [**MAIM**](https://wildergardenaudio.com/maim/) |
 | | | Inphonik | [**PCM2612**](https://www.inphonik.com/products/pcm2612-retro-decimator-unit/) |
 | | | TAL Software | [**TAL-Bitcrusher**](https://tal-software.com/products/tal-effects) |
-| | Clipper | Air-G Audio | [**Air-G Clip**](https://air-g-audio.ko-fi.com/) |
-| | | Venn Audio | [**Free Clip 2**](https://www.vennaudio.com/free-suite/) |
-| | | GVST | [**GClip**](https://www.gvst.co.uk/gclip.htm) |
+| | Clipper | - | - |
 | | | vvvar | [**PeakEater**](https://github.com/vvvar/PeakEater) |
 | | | Kazrog | [**KClip Zero**](https://kazrog.com/products/kclip-zero) |
 | | Distortion & Fuzz | - | - |
 | | Saturation | blepfx | [**destruqtor**](https://fx.amee.ee/) |
 | | | Yifeng | **Fire** |
-| | Tape | Air-G Audio | [**Air-G Tape**](https://air-g-audio.ko-fi.com/) |
-| | | Air-G Audio | [**Air-G Taped & Taped Mini**](https://air-g-audio.ko-fi.com/) |
-| | | Sinuslabs | [**Bandbreite**](https://sinuslabs.io/product/bandbreite/) |
+| | Tape | Sinuslabs | [**Bandbreite**](https://sinuslabs.io/product/bandbreite/) |
 | | | ChowdhuryDSP | [**CHOWTapeModel**](https://chowdsp.com/products.html) |
 | | Tube | - | - |
 | | Waveshapers | Aspen Instruments | [**Black Diamond Distortion**](https://aspeninstruments.com/plugins/black-diamond-distortion/) |
 | | | Wolf Plugins | [**Wolf Shaper**](https://wolf-plugins.github.io/wolf-shaper/) |
-| **Dynamics** | Analog Compressor | Air-G Audio | [**Air-G Pop! & Pop! Mini**](https://air-g-audio.ko-fi.com/) |
-| | | Air-G Audio | [**Air-G Pulse & Pulse Mini**](https://air-g-audio.ko-fi.com/) |
-| | | Air-G Audio | [**Air-G Velvet & Velvet Mini**](https://air-g-audio.ko-fi.com/) |
-| | | Air-G Audio | [**Air-G Volt & Volt Mini**](https://air-g-audio.ko-fi.com/) |
-| | General Compressor | Venn Audio | [**Free Comp**](https://www.vennaudio.com/free-suite/) |
-| | | GVST | [**GComp**](https://www.gvst.co.uk/gcomp.htm) |
-| | | GVST | [**GComp2**](https://www.gvst.co.uk/gcomp2.htm) |
 | | | Audio Damage | [**RoughRider3**](https://www.audiodamage.com/pages/free-and-legacy) |
-| | | ZL Audio | [**ZL Compressor**](https://zl-audio.github.io/) |
-| | De-Esser | Air-G Audio | [**Air-G Dess**](https://air-g-audio.ko-fi.com/) |
+| **Dynamics** | | ZL Audio | [**ZL Compressor**](https://zl-audio.github.io/) |
+| | Analog Compressor | - | - |
+| | De-Esser | - | - |
 | | Distressor | - | - |
-| | Gate | Venn Audio | [**Free Gate**](https://www.vennaudio.com/free-suite/) |
-| | | Tilr | [**GATE-12**](https://github.com/tiagolr/gate12) |
-| | | GVST | [**GGate**](https://www.gvst.co.uk/ggate.htm) |
-| | Limiter | GVST | [**GMax**](https://www.gvst.co.uk/gmax.htm) |
+| | Gate | Tilr | [**GATE-12**](https://github.com/tiagolr/gate12) |
+| | Limiter | - | - |
 | | Sidechain Dynamics | - | - |
 | | Multiband Dynamics | Polarity Productions | [**Polarity-MD**](https://github.com/polarity/bitwig-devices) |
-| | | GVST | [**GMulti**](https://www.gvst.co.uk/gmulti.htm) |
 | | OTT | Audio Damage | [**Evil Otto**](https://www.audiodamage.com/pages/free-and-legacy) |
 | | | DsgDnB | [**vitOTTx**](https://dsgdnb.com/plugins/vitottx) |
 | | Transient Shaper | - | - |
-| **EQ & Filters** | Analog EQ | Air-G Audio | [**Air-G EaseQ**](https://air-g-audio.ko-fi.com/) |
-| | | Air-G Audio | [**Air-G Prism**](https://air-g-audio.ko-fi.com/) |
+| **EQ & Filters** | Analog EQ | - |
 | | Auto EQ | - | - |
 | | Filter | blepfx | [**filtrr**](https://fx.amee.ee/) |
 | | | Tilr | [**FILT-R**](https://github.com/tiagolr) |
-| | | GVST | [**GBand**](https://www.gvst.co.uk/gband.htm) |
-| | | GVST | [**GHi**](https://www.gvst.co.uk/ghi.htm) |
-| | | GVST | [**GLow**](https://www.gvst.co.uk/glow.htm) |
 | | | Bacon Paul | [**Gravy**](https://surge-synthesizer.github.io/) |
 | | | TAL Software | [**TAL-Filter-2**](https://tal-software.com/products/tal-filter) |
 | | | Bacon Paul | [**Two Filters**](https://surge-synthesizer.github.io/) |
-| | Parametric EQ | Venn Audio | [**Free EQ**](https://www.vennaudio.com/free-suite/) |
+| | Parametric EQ | - | - |
 | | | ZL Audio | [**ZL Equalizer 2**](https://zl-audio.github.io/) |
 | | Resonance Supressor| Ewan Bristow | [**ANINA**](https://crql.works/anina/) |
 | | Special EQ | - | - |
 | **Enhancers** | Air/Presence | - | - |
-| | Bass | GVST | [**GMonoBass**](https://www.gvst.co.uk/gmonobass.htm) |
+| | Bass | - | - |
 | | Drums | - | - |
 | | Guitars & Keys | - | - |
 | | Oneknob | - | - |
 | | Vocals | - | - |
 | **Mixing Console** | Channel Strips | KuramaSound | **AnalogChannel** |
-| | | Venn Audio | [**Free Strip**](https://www.vennaudio.com/free-suite/) |
 | | | blablack | **Nine Strip** |
 | | FX Rack | - | - |
 | | Pre-Amp | - | - |
-| **Modulation FX** | General Modulation | Air-G Audio | [**Air-G Mods**](https://air-g-audio.ko-fi.com/) |
-| | Auto Pan | GVST | [**GLFO**](https://www.gvst.co.uk/glfo.htm) |
-| | Chorus & Ensemble | GVST | [**GChorus**](https://www.gvst.co.uk/gchorus.htm) |
+| **Modulation FX** | General Modulation | - |
+| | Auto Pan | - |
+| | Chorus & Ensemble | - |
 | | | TAL Software | [**TAL-Chorus**](https://tal-software.com/products/tal-chorus-lx) |
 | | Phaser & Flanger | ChowdhuryDSP | [**ChowPhaser**](https://chowdsp.com/products.html) |
 | | Ring Mod / Shifter | - | - |
 | **Pitch & Time** | Formant Shifter | - | - |
-| | Pitch Correction | GVST | [**GSnap**](https://www.gvst.co.uk/gsnap.htm) |
+| | Pitch Correction | - |
 | | Pitch Shifter | - | - |
 | | Vocoder | TAL Software | [**TAL-Vocoder**](https://tal-software.com/products/tal-vocoder) |
 | **Special FX** | Glitch | Circuitdust | [**Bad Humors**](https://github.com/niflheimmer/badhumors) |
 | | Granular | Michael Ourednik | [**Argotlunar**](https://argotlunar.info/) |
-| | | GVST | [**GGrain**](https://www.gvst.co.uk/ggrain.htm) |
+| | | - |
 | | | Strange Audio | [**maniFold Σ**](https://github.com/strange-audio/manifold) |
 | | | Timerift Audio | [**Oh My Grain**](https://timerift-audio.org/plugins/oh-my-grain) |
 | | Multi-FX | - | - |
@@ -99,52 +81,50 @@ Repository to keep a track of VST Plugins that are available on Linux
 | | | Bacon Paul | [**Tube Unit**](https://surge-synthesizer.github.io/) |
 | | Tape Stop | Tilr | [**TIME-12**](https://github.com/tiagolr/time12) |
 | | Texturizer | consint | [**Tumult**](https://github.com/consint/Tumult) |
-| **Reverb** | Algorithmic Reverb | Air-G Audio | [**Air-G Spaces**](https://air-g-audio.ko-fi.com/) |
+| **Reverb** | Algorithmic Reverb | - | - |
 | | | BensonC | [**CloudReverb**](https://github.com/bensonchiu/CloudReverb) |
 | | | Michael Willis | [**DragonFly Hall**](https://michaelwillis.github.io/dragonfly-reverb/) |
-| | | Venn Audio | [**Free Reverb**](https://www.vennaudio.com/free-suite/) |
+| | | - | - |
 | | | Bacon Paul | [**Galaxy**](https://surge-synthesizer.github.io/) |
 | | | Fors | [**SALA**](https://fors.fm/sala) |
 | | | BillyDM | [**VitaliumVerb**](https://github.com/BillyDM/Vitalium) |
-| | Convolution Reverb | Venn Audio | [**Free Convolve**](https://www.vennaudio.com/free-suite/) |
+| | Convolution Reverb | - | - |
 | | | Tilr | [**REEV-R**](https://github.com/tiagolr/reev-r) |
 | | Digital Reverb | ArtV | **TurboAlexis** |
 | | Granular Reverb | - | - |
 | | Plate Reverb | Michael Willis | [**DragonFly Plate**](https://michaelwillis.github.io/dragonfly-reverb/) |
 | | | TAL Software | [**TAL-Reverb-4**](https://tal-software.com/products/tal-reverb-4) |
 | | Room Reverb | Michael Willis | [**DragonFly Room**](https://michaelwillis.github.io/dragonfly-reverb/) |
-| | Shimmer Reverb | - | - |
+| | Shimmer Reverb | Musical Entropy | [**Voyage Voyage**](https://www.musicalentropy.com/VoyageVoyage.html) |
 | | Special Reverb | Shift Line | [**Astronaut Reverb Free**](https://shift-line.com/astronautfree) |
 | | | Michael Willis | [**DragonFly Early**](https://michaelwillis.github.io/dragonfly-reverb/) |
 | | Spring Reverb | smiarx | [**aelapse**](https://github.com/smiarx/aelapse) |
-| **Delay** | Algorithmic Delay | Venn Audio | [**Free Delay**](https://www.vennaudio.com/free-suite/) |
-| | | GVST | [**GDelay**](https://www.gvst.co.uk/gdelay.htm) |
-| | | GVST | [**GDuckDly**](https://www.gvst.co.uk/gduckdly.htm) |
+| **Delay** | Algorithmic Delay | - | - |
+| | | - | - |
+| | | - | - |
 | | | Tilr | [**Sirial**](https://github.com/tiagolr/sirial) |
 | | | Tilr | [**QDelay**](https://github.com/tiagolr/qdelay) |
 | | | Audio Damage | [**ShinRonin**](https://www.audiodamage.com/pages/free-and-legacy) |
-| | Analog Delay | Air-G Audio | [**Air-G Echoes**](https://air-g-audio.ko-fi.com/) |
+| | Analog Delay | - | - |
 | | | GenuineSoundware | [**VariSpeed** ⚠️ (UNSTABLE)](https://web.archive.org/web/20250101011146*/https://www.genuinesoundware.com/products/VariSpeed/files/GSi_VariSpeed_Installer_1.0.0_LIN.zip) |
 | | Special Delay | ChowdhuryDSP | [**ChowMatrix**](https://chowdsp.com/products.html) |
-| | | GVST | [**GRevDly**](https://www.gvst.co.uk/grevdly.htm) |
+| | | - | - |
 | | | AudioThing | [**Moon Echo**](https://www.audiothing.net/effects/moon-echo/) |
 | | | Sinevibes | [**Skew**](https://www.sinevibes.com/skew/) |
 | **Stereo Width** | Auto Pan | - | - |
 | | Stereo Imager | - | - |
 | **Mastering** | *General* | - | - |
-| **Utilities** | Dithering | GVST | [**GNormal**](https://www.gvst.co.uk/gnormal.htm) |
+| **Utilities** | Dithering | - | - |
 | | Frequency Analyzer | Bertom Audio | [**EQ Curve Analyzer**](https://bertomaudio.com/eqca.html) |
-| | Gain & Pan | Venn Audio | [**Free Gain**](https://www.vennaudio.com/free-suite/) |
-| | | GVST | [**GFader**](https://www.gvst.co.uk/gfader.htm) |
-| | | GVST | [**GGain**](https://www.gvst.co.uk/ggain.htm) |
+| | Gain & Pan | - | - |
 | | | mimoz | [**Utility Clone**](https://github.com/mimoz/UtilityClone) |
-| | Loudness Meter | Venn Audio | [**Free Meter**](https://www.vennaudio.com/free-suite/) |
-| | Noise Generator | Venn Audio | [**Free Generator**](https://www.vennaudio.com/free-suite/) |
+| | Loudness Meter | - | - |
+| | Noise Generator | - | - |
 | | Oscilloscope | - | - |
 | | Env Simulation | - | - |
 | | Spectrogram | - | - |
 | | Tools | ZL Audio | [**ZL Splitter**](https://zl-audio.github.io/) |
-| | Tuner | GVST | [**GTune**](https://www.gvst.co.uk/gtune.htm) |
+| | Tuner | - | - |
 
 <br>
 
@@ -156,6 +136,7 @@ Repository to keep a track of VST Plugins that are available on Linux
 | DsgDnB | [**Cartridge**](https://dsgdnb.com/plugins/cartridge) | Instrument |
 | BlauKraut Engineering | [**Charlatan**](http://www.blaukraut.info/) | Virtual Analog Synth |
 | Decidedly | [**Decent Sampler**](https://www.decentsamples.com/product/decent-sampler-plugin/) | Sampler |
+| Floe Audio | [**Floe**](https://github.com/floe-audio/Floe) | Sampler |
 | Full FX Media | **Diffusia** | Instrument |
 | Ternär Music Technology | **Flechtwerk** | Synthesizer |
 | GVST | [**GSinth**](https://www.gvst.co.uk/gsinth.htm) | Synthesizer |
@@ -197,6 +178,18 @@ Repository to keep a track of VST Plugins that are available on Linux
 | | Jürgen Moßgraber | [**ConvertByMoss**](https://mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html) |
 
 <br>
+
+## ⚙️ Plugin Suites
+
+| Developers |
+| :--- |
+| [**Airwindows**](https://www.airwindows.com/) |
+| [**Air-G**](https://ko-fi.com/airgaudio/shop) |
+| [**GVST**](https://gvst.uk/) |
+| [**Venn Audio**](https://www.vennaudio.com/free-suite/) |
+
+<br>
+
 
 ## 🐧 Notable Linux-Friendly Developers
 
